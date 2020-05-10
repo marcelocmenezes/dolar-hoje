@@ -14,7 +14,7 @@ function initCotacao() {
 
         async function handleValores(event) {
             const valor = event.target.value;
-            const dadosResponse = await fetch('https://api.hgbrasil.com/finance?format=json-cors&key=37a925cc');
+            const dadosResponse = await fetch('https://api.hgbrasil.com/finance?format=json-cors&key=0111f91d');
             const dadosJSON = await dadosResponse.json();
             const valorDolar = dadosJSON.results.currencies.USD.buy;
 
