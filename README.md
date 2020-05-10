@@ -5,7 +5,7 @@ Visualizar Projeto: [Clique aqui](https://dolarhoje.netlify.com/)
 
 ## Projeto
 
-Mini-Aplicação criada para treino de API utilizando Fetch com Javascript Vanilla. Layout criado totalmente do zero sem frameworks.
+Mini-Aplicação criada para treino de API utilizando Fetch+Async Await com Javascript Vanilla. Layout criado totalmente do zero sem frameworks.
 Aplicaçao tem o objetivo de realizar a consulta da cotação do dolar, sendo possível consultar do valor do Dolar em Reiais e vice-versa.
 
 <br>
@@ -19,3 +19,4 @@ Aplicaçao tem o objetivo de realizar a consulta da cotação do dolar, sendo po
 ## Aprendizados 
 - Fixando conceitos de Javascript
 - Aperfeiçoando utilização de Fetch com Javascript e consumo de API.
+- Treino de Async Await, JS assíncrono
